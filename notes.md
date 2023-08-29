@@ -12,7 +12,7 @@ And distributed? Distributed means that Kafka works in a cluster, each node in t
 
 So, basically, Kafka is a set of machines working together to be able to handle and process real-time infinite data.
 
-
+## What is message , record and event ?
 
 Lets To understand where the need for Apache Kafka is coming from, we'll look at an example of a product.
 
